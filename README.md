@@ -1,5 +1,5 @@
 # sokoban
-A sokoban implementation.
+A Sokoban implementation.
 
 ```
 (ql:quickload :sokoban)
